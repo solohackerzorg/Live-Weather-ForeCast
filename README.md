@@ -1,4 +1,4 @@
-* Developed and Distribut
+* Developed and Distributed
 * Open Source by
 * SoloHackerzOrganization
 # Information
